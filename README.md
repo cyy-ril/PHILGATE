@@ -42,4 +42,4 @@ cd PHILGATE
 - JavaScript (ES6+): Responsive menu toggles, form state handling, and interactive modal alerts.
 
 ## Licence
-MIT, see [LICENSE](link).
+MIT, see [LICENSE] (https://github.com/cyy-ril/Bacani_WEBCS_Finals/blob/main/LICENSE).
