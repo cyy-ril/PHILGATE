@@ -17,9 +17,7 @@ git clone https://github.com/cyy-ril/PHILGATE.git (sample)
 cd PHILGATE
 ```
 **How to install dependencies**
-```bash
 - Open directly via a local server (e.g., Live Server in VS Code)
-```
 
 ## 3. What it does
 
