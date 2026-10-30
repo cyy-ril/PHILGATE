@@ -41,7 +41,7 @@ cd PHILGATE
 
 - Tailwind CSS & Font Awesome: Utility-first styling frameworks paired with a vector icon suites for clean interface design.
 
-- JavaScript (ES6+): Dynamic DOM manipulation, responsive menu toggles, form state handling, and interactive modal alerts.
+- JavaScript (ES6+): Responsive menu toggles, form state handling, and interactive modal alerts.
 
 ## Licence
 MIT, see [LICENSE](link).
